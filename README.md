@@ -30,8 +30,3 @@ Check out the #getInstance() in retry.service.ConsoleService on how to incorpora
 Contributors
 
 Inspired from spring batch
-
-
-License
-
-A short snippet describing the license (MIT, Apache, etc.)
